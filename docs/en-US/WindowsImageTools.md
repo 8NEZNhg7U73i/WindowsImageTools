@@ -20,3 +20,8 @@ Locale: en-US
 ### [New-DataVHD](New-DataVHD.md)
 {{ Fill in the Description }}
 
+### [Initialize-VHDPartition](Initialize-VHDPartition.md)
+{{ Fill in the Description }}
+
+### [New-UnattendXml](New-UnattendXml.md)
+{{ Full in the Description }}
